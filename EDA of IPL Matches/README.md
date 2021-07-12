@@ -1,5 +1,5 @@
 EDA of IPL Matches
 
--> MI vs DC
+1. MI vs DC
 
--> RCB vs KKR
+2. RCB vs KKR
