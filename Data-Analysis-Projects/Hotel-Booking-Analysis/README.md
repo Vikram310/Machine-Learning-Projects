@@ -1,1 +1,1 @@
-Hotel-Booking-Analysis
+Hotel-Bookings-Analysis 
